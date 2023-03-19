@@ -1,1 +1,1 @@
-Text after changes in merge_1
+Text after changes in merge_1 and merge_2
