@@ -1,1 +1,2 @@
 Text after changes in merge_1 and merge_2
+now rebase branch
